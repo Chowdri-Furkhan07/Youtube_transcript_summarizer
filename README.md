@@ -22,8 +22,8 @@ Built with **Streamlit** for a fast, interactive UI and powered by the **Google 
 - 🤖 AI-generated, point-based summaries via Google Gemini Pro
 - 📄 Automatic transcript extraction using YouTube Transcript API
 - 🖼️ Video thumbnail preview before generating notes
-- ⚡ Lightweight and fast — no heavy ML model downloads required
-- 🧩 Clean Streamlit interface — no frontend code needed
+- ⚡ Lightweight and fast - no heavy ML model downloads required
+- 🧩 Clean Streamlit interface - no frontend code needed
 
 ---
 
