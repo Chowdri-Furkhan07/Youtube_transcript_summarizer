@@ -1,6 +1,6 @@
 # 🎬 YouTube Transcript Summarizer
 
-> An AI-powered web application that extracts transcripts from YouTube videos and generates concise, point-based summaries using Google Gemini — helping users grasp key insights without watching the full video.
+> An AI-powered web application that extracts transcripts from YouTube videos and generates concise, point-based summaries using Google Gemini - helping users grasp key insights without watching the full video.
 
 ---
 
@@ -10,7 +10,7 @@ Manually watching long YouTube videos to extract useful information is time-cons
 
 1. Extracting the full transcript from any YouTube video
 2. Passing it to Google Gemini (LLM) with a structured summarization prompt
-3. Displaying a clean, point-based summary within 750 words — right in the browser
+3. Displaying a clean, point-based summary within 750 words - right in the browser
 
 Built with **Streamlit** for a fast, interactive UI and powered by the **Google Gemini API** for intelligent text summarization.
 
