@@ -111,10 +111,10 @@ Summary displayed in Streamlit UI
 
 ## 💡 Use Cases
 
-- 📚 **Students** — Quickly summarize lecture recordings and educational videos
-- 👨‍💻 **Developers** — Extract key takeaways from long tech tutorials
-- 🔍 **Researchers** — Rapidly scan video content for relevant information
-- 📰 **Content Creators** — Understand competitor content in minutes
+- 📚 **Students** - Quickly summarize lecture recordings and educational videos
+- 👨‍💻 **Developers** - Extract key takeaways from long tech tutorials
+- 🔍 **Researchers** - Rapidly scan video content for relevant information
+- 📰 **Content Creators** - Understand competitor content in minutes
 
 ---
 
